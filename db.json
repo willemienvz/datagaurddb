@@ -99,5 +99,7 @@
       }
     }
   },
-  "errors": null
+  "errors": {
+    "error1": "Error message 1"
+  }
 }
